@@ -1,0 +1,7 @@
+Exception: STATUS_INTEGER_DIVIDE_BY_ZERO at eip=6375697D
+eax=00000001 ebx=00000000 ecx=FFFFFFFF edx=00000000 esi=FFFFFFFF edi=00000000
+ebp=FFFFFFFF esp=0023A570 program=C:\Users\aws4y\Documents\NetBeansProjects\is_it_prime\dist\Debug\Cygwin_4.x-Windows\is_it_prime.exe, pid 3048, thread main
+cs=001B ds=0023 es=0023 fs=003B gs=0000 ss=0023
+Stack trace:
+Frame     Function  Args
+End of stack trace
