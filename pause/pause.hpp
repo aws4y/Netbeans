@@ -8,7 +8,7 @@
 #ifndef PAUSE_HPP
 #define	PAUSE_HPP
 
-void pause();
+void t_pause();
 
 #endif	/* PAUSE_HPP */
 

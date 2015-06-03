@@ -15,7 +15,7 @@
 #include <limits.h>
 #include <gmp.h>
 #include <pari/pari.h>
-//#include <pause.hpp>
+#include "../pause/pause.hpp"
 
 using namespace std;
 
@@ -116,7 +116,7 @@ int main(int argc, char** argv) {
     found=false;
     factor_count=0;
     }while(input!=0);
-   //pause();
+    t_pause();
     return 0;
     
 }
