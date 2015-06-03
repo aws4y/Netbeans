@@ -26,7 +26,7 @@ int kbhit(void)
 
   if(ch != EOF)
   {
-    ungetc(ch, stdin);
+    //ungetc(ch, stdin);
     return 1;
   }
 
